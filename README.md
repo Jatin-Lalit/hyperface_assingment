@@ -4,6 +4,8 @@
 
 This project, tagged as **#hyperface_assignment**, provides backend API endpoints for a podcast-related application, serving both administrators and regular users. Below is a summarized overview of the functionalities along with their respective endpoints for each router.
 
+### Deployed link :-(`https://hyperface-assingment.onrender.com`)
+
 ### Admin Router (`adminRouter`)
 
 1. **Signup**
